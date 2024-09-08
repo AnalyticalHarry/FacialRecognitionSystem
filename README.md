@@ -18,7 +18,7 @@ OpenCV (Open Source Computer Vision Library) is a comprehensive library of progr
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-
+```
 ### Jupyter Notebook
 
 https://github.com/AnalyticalHarry/FacialRecognitionSystem/blob/main/Facial_recognition_system.ipynb
